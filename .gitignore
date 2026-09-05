@@ -1,0 +1,14 @@
+# 가상환경 및 파이썬 캐시
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea
+
+# 개인 오픽 스크립트 폴더 (제외)
+scripts/
+merged_scripts/
+
+# 생성된 대용량 MP3 파일 폴더 (제외)
+audio_outputs/
+*.mp3
