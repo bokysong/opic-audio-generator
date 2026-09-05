@@ -44,7 +44,7 @@ Markdown
 
 🔒 Privacy Note: 실제 개인 학습용 오픽 스크립트와 생성된 MP3 음원 파일은 개인정보 보호를 위해 .gitignore로 제외되어 있습니다.
 
-🚀 Getting Started
+## 🚀 Getting Started
 1. Requirements
 Python 3.8 이상 환경에서 실행합니다.
 
